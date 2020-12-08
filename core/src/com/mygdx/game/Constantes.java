@@ -32,6 +32,8 @@ public class Constantes {
     public static int gap = (int)(0.2f*screeny);
 
     public static int btnSize = (int)(0.4f*screenx);
+
     public static int btnx = (int)(0.3f*screenx);
+
     public static int btny = (screeny -btnSize)/2;
 }
